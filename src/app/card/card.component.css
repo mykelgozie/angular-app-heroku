@@ -1,0 +1,86 @@
+.card-tap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-tap .card {
+   margin: 10px;
+   background: #FFFFFF 0% 0% no-repeat padding-box;
+   border: 0.4000000059604645px solid #707070;
+   border-radius: 4px;
+   opacity: 1;
+    height: 200px;
+    width: 400px;
+    padding-left: 10px;
+}
+
+.sub-circle {
+display: flex;
+justify-content: space-around;
+  
+}
+
+.inner-sub div {
+    
+    padding:30px 35px;
+    border-radius: 50%;
+    
+}
+.inner-sub p {
+    margin-left: 20px;
+}
+
+
+
+
+.circle1{
+
+
+    background: #1B146400 0% 0% no-repeat padding-box;
+    border: 2px solid #1B1464;
+    opacity: 1;
+    
+   
+}
+.circle2{
+
+
+    background: #24C977 0% 0% no-repeat padding-box;
+  
+    
+   
+}
+.circle3{
+
+  
+    background: #FF4343F7 0% 0% no-repeat padding-box;
+
+    
+   
+}
+.circle4{
+
+ 
+    background: #E0B237 0% 0% no-repeat padding-box;
+    border: 1px solid #E0B237;
+    opacity: 1;
+   
+}
+.count  {
+
+  text-align: center;
+  font-size: 60px;
+  margin-top: 40px;
+ 
+
+
+}
+.count p{
+    font-size: 15px;
+}
+
+.title {
+    margin-bottom: 30px;
+}
+
+
